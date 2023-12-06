@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".banglafristpaper"
+    android:orientation="vertical"
+    android:background="@color/body"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/bangla1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/solaimanlipi"
+            android:gravity="center"
+            android:text="বাংলা ১ম পত্র"
+            android:textColor="@color/h2_font"
+            android:textSize="40dp"
+
+            />
+<!--.............................PDF 1start.................................. -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:id="@+id/q1"
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তোমাকে পাওয়ার জন্য হে স্বাধীনতা কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+        <!--.............................PDF 1 End.................................. -->
+
+        <!--.............................PDF 2 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মানুষ কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 2 END..................................-->
+
+        <!--.............................PDF 3 start..................................-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আমি কোনো আগন্তুক নই MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 3 END..................................-->
+
+        <!--.............................PDF 4 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আশা কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 4 END..................................-->
+
+        <!--.............................PDF 5 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তোমাকে পাওয়ার জন্য হে স্বাধীনতা কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 5 END..................................-->
+
+        <!--.............................PDF 6 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="পল্লিজননী কবিতার বহুনির্বাচনি প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 6 END..................................-->
+
+        <!--.............................PDF 7 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তস্বাধীনতা এ শব্দটি কীভাবে আমাদের হলো MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 7 END..................................-->
+
+        <!--.............................PDF 8 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সেইদিন এই মাঠ কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 8 END..................................-->
+
+        <!--.............................PDF 9 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রানার কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 9 END..................................-->
+
+        <!--.............................PDF 10 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আমার পরিচয় কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 10 END..................................-->
+
+        <!--.............................PDF 11 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তোমাকে পাওয়ার জন্য হে স্বাধীনতা কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 11 END..................................-->
+
+        <!--.............................PDF 12 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ত সাহসী জননী বাংলা কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 12 END..................................-->
+
+        <!--.............................PDF 13 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গবাণী কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 13 END..................................-->
+
+        <!--.............................PDF 14 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কপোতাক্ষ নদ কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 14 END..................................-->
+
+        <!--.............................PDF 15 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জীবন সঙ্গীত কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 15 END..................................-->
+
+        <!--.............................PDF 16 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জুতা আবিষ্কার কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 16 END..................................-->
+
+        <!--.............................PDF 17 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="নিয়তি গল্পের MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 17 END..................................-->
+
+        <!--.............................PDF 18 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাহিত্যের রূপ ও রীতি MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 18 END..................................-->
+
+        <!--.............................PDF 19 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ঝর্ণার গান কবিতার MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 19 END..................................-->
+
+        <!--.............................PDF 20 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="পয়লা বৈশাখ MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 20 END..................................-->
+
+        <!--.............................PDF 21 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="নএকাত্তরের দিনগুলি MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 21 END..................................-->
+
+        <!--.............................PDF 22 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মমতাদি গল্পের MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 22 END..................................-->
+
+        <!--.............................PDF 23 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="নিয়তি গল্পের MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 23 END..................................-->
+
+        <!--.............................PDF 24 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রবাস বন্ধু গল্পের MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 24 END..................................-->
+
+        <!--.............................PDF 25 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শিক্ষা ও মনুষ্যত্ব MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 25 END..................................-->
+
+        <!--.............................PDF 26 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="উপেক্ষিত শক্তির উদ্বোধন MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 26 END..................................-->
+
+        <!--.............................PDF 27 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মানুষ মুহম্মদ (স) MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 27 END..................................-->
+
+        <!--.............................PDF 28 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="নিমগাছ গল্পের MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 28 END..................................-->
+
+        <!--.............................PDF 29 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আম আঁটির ভেঁপু MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 29 END..................................-->
+
+        <!--.............................PDF 30 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="বই পড়া MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 30 END..................................-->
+
+        <!--.............................PDF 31 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="অভাগীর স্বর্গ MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 31 END..................................-->
+
+        <!--.............................PDF 32 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="পল্লিসাহিত্য MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 32 END..................................-->
+
+        <!--.............................PDF 33 start..................................-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/pdfbook"
+                />
+            <TextView
+                android:fontFamily="@font/solaimanlipi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সুভা গল্পের MCQ প্রশ্ন উত্তর"
+                android:maxLines="2"
+                android:layout_gravity="center"
+                android:textSize="21sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:padding="3dp"
+                android:background="@drawable/bottom_shade"
+                />
+
+
+        </LinearLayout>
+
+        <!--.............................PDF 33 END..................................-->
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

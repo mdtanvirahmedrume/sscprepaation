@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sscp"
+        tools:targetApi="31">
+        <activity
+            android:name=".bangladesh_and_global_studies"
+            android:exported="false" />
+        <activity
+            android:name=".general_science"
+            android:exported="false" />
+        <activity
+            android:name=".agricultural_studies"
+            android:exported="false" />
+        <activity
+            android:name=".business_entrepreneurship"
+            android:exported="false" />
+        <activity
+            android:name=".finance"
+            android:exported="false" />
+        <activity
+            android:name=".accounting"
+            android:exported="false" />
+        <activity
+            android:name=".highermath"
+            android:exported="false" />
+        <activity
+            android:name=".biology"
+            android:exported="false" />
+        <activity
+            android:name=".chemistry"
+            android:exported="false" />
+        <activity
+            android:name=".physics"
+            android:exported="false" />
+        <activity
+            android:name=".ict"
+            android:exported="false" />
+        <activity
+            android:name=".religion"
+            android:exported="false" />
+        <activity
+            android:name=".math"
+            android:exported="false" />
+        <activity
+            android:name=".englishsecondpaper"
+            android:exported="false" />
+        <activity
+            android:name=".englishfristpaper"
+            android:exported="false" />
+        <activity
+            android:name=".banglasecondpaper"
+            android:exported="false" />
+        <activity
+            android:name=".banglafristpaper"
+            android:exported="false" />
+        <activity
+            android:name=".MainFile"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/body"
+    >
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_margin="15dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_url="https://sorkarijob.com/anim/pdf_animation.json"
+        />
+    <TextView
+        android:fontFamily="@font/solaimanlipi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="এসএসসি প্রস্তুতি ২০২৪"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/h2_font"
+        />
+    <TextView
+        android:fontFamily="@font/solaimanlipi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="এসএসসি ২০২৪ পরীক্ষার আগে পরিমার্জন পরীক্ষা পরীক্ষার প্রস্তুতি এবং বোর্ড প্রশ্ন সমাধানের মাধ্যমে?"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/h2_font"
+        />
+    <ImageView
+        android:id="@+id/go_mainfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/right_arrow"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copyright \u00a9 Tanvir Ahmed"
+        android:layout_marginTop="42dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        />
+
+</LinearLayout>
